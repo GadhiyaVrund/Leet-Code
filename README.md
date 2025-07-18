@@ -32,4 +32,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0937-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->

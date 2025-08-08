@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0503-next-greater-element-ii) |
 | [0890-lemonade-change](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0890-lemonade-change) |
+| [0940-fruit-into-baskets](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0940-fruit-into-baskets) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/GadhiyaVrund/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0409-longest-palindrome](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0496-next-greater-element-i) |
+| [0940-fruit-into-baskets](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0940-fruit-into-baskets) |
 ## Union Find
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0409-longest-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->

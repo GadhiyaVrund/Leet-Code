@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0457-circular-array-loop](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0503-next-greater-element-ii) |
 | [0890-lemonade-change](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0890-lemonade-change) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0202-happy-number) |
 | [0409-longest-palindrome](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0409-longest-palindrome) |
+| [0457-circular-array-loop](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0940-fruit-into-baskets) |
 ## Union Find
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0202-happy-number) |
+| [0457-circular-array-loop](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0457-circular-array-loop) |
 | [0908-middle-of-the-linked-list](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |

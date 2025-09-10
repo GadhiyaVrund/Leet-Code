@@ -11,6 +11,7 @@ Hope this will help you to start your leetcode journey
 | ------- |
 | [0037-sudoku-solver](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0055-jump-game](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
@@ -47,6 +48,7 @@ Hope this will help you to start your leetcode journey
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0202-happy-number) |
@@ -106,6 +108,7 @@ Hope this will help you to start your leetcode journey
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking

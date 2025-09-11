@@ -92,6 +92,7 @@ Hope this will help you to start your leetcode journey
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Hope this will help you to start your leetcode journey
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0202-happy-number) |
 ## Sorting
 |  |
@@ -123,4 +125,8 @@ Hope this will help you to start your leetcode journey
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

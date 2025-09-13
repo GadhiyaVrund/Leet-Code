@@ -54,6 +54,7 @@ Hope this will help you to start your leetcode journey
 | [0202-happy-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0457-circular-array-loop](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0457-circular-array-loop) |
+| [0633-sum-of-square-numbers](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -107,6 +108,7 @@ Hope this will help you to start your leetcode journey
 | ------- |
 | [0070-climbing-stairs](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Hope this will help you to start your leetcode journey
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 ## Memoization
 |  |
 | ------- |

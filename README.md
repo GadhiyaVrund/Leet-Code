@@ -10,6 +10,7 @@ Hope this will help you to start your leetcode journey
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
@@ -121,6 +122,7 @@ Hope this will help you to start your leetcode journey
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0046-permutations) |
 ## Matrix
 |  |
 | ------- |

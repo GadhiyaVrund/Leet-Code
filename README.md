@@ -16,6 +16,7 @@ Hope this will help you to start your leetcode journey
 | [0084-largest-rectangle-in-histogram](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0322-coin-change](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0457-circular-array-loop](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0496-next-greater-element-i) |
@@ -96,6 +97,7 @@ Hope this will help you to start your leetcode journey
 | [0005-longest-palindromic-substring](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0322-coin-change) |
 ## String
 |  |
 | ------- |
@@ -136,4 +138,8 @@ Hope this will help you to start your leetcode journey
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

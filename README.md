@@ -111,6 +111,7 @@ Hope this will help you to start your leetcode journey
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0633-sum-of-square-numbers) |
@@ -132,6 +133,7 @@ Hope this will help you to start your leetcode journey
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 ## Memoization

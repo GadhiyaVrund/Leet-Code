@@ -10,6 +10,7 @@ Hope this will help you to start your leetcode journey
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0075-sort-colors) |
@@ -88,6 +89,7 @@ Hope this will help you to start your leetcode journey
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0890-lemonade-change](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0890-lemonade-change) |
@@ -95,6 +97,7 @@ Hope this will help you to start your leetcode journey
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0322-coin-change) |

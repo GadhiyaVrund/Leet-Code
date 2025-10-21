@@ -47,6 +47,7 @@ Hope this will help you to start your leetcode journey
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -54,6 +55,7 @@ Hope this will help you to start your leetcode journey
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0189-rotate-array) |

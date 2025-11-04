@@ -2,7 +2,7 @@ class Solution {
 public:
     int findMaxLength(vector<int>& nums) {
         unordered_map<int, int> mp;
-        mp[0] = -1;  // base case
+        mp[0] = -1;  
         int sum = 0, maxLen = 0;
 
         for(int i = 0; i < nums.size(); i++) {
@@ -11,7 +11,7 @@ public:
             if(mp.count(sum)) {
                 maxLen = max(maxLen, i - mp[sum]);
             } else {
-                mp[sum] = i;  // store only the first occurrence
+                mp[sum] = i;  
             }
         }
 

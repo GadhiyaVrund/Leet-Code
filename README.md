@@ -51,6 +51,7 @@ Hope this will help you to start your leetcode journey
 | [0021-merge-two-sorted-lists](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0143-reorder-list) |
 | [0908-middle-of-the-linked-list](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ Hope this will help you to start your leetcode journey
 | [0086-partition-list](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -71,10 +73,12 @@ Hope this will help you to start your leetcode journey
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0143-reorder-list) |
 ## Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0937-online-stock-span) |

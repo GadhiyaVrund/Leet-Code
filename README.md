@@ -19,6 +19,7 @@ Hope this will help you to start your leetcode journey
 | [0128-longest-consecutive-sequence](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0189-rotate-array) |
 | [0322-coin-change](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0457-circular-array-loop](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0496-next-greater-element-i) |
@@ -35,6 +36,7 @@ Hope this will help you to start your leetcode journey
 | [0128-longest-consecutive-sequence](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0457-circular-array-loop](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0457-circular-array-loop) |
@@ -136,6 +138,7 @@ Hope this will help you to start your leetcode journey
 | ------- |
 | [0075-sort-colors](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
@@ -166,4 +169,24 @@ Hope this will help you to start your leetcode journey
 | ------- |
 | [0525-contiguous-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

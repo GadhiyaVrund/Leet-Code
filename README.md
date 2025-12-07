@@ -9,6 +9,7 @@ Hope this will help you to start your leetcode journey
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0046-permutations) |
@@ -59,6 +60,7 @@ Hope this will help you to start your leetcode journey
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0088-merge-sorted-array) |

@@ -10,6 +10,7 @@ Hope this will help you to start your leetcode journey
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0046-permutations) |
@@ -154,6 +155,7 @@ Hope this will help you to start your leetcode journey
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0633-sum-of-square-numbers) |

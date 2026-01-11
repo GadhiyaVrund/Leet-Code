@@ -20,6 +20,7 @@ Hope this will help you to start your leetcode journey
 | [0088-merge-sorted-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -38,6 +39,7 @@ Hope this will help you to start your leetcode journey
 | [0128-longest-consecutive-sequence](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0409-longest-palindrome) |
@@ -126,6 +128,7 @@ Hope this will help you to start your leetcode journey
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0940-fruit-into-baskets) |
 ## Math

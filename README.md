@@ -16,6 +16,7 @@ Hope this will help you to start your leetcode journey
 | [0046-permutations](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
@@ -163,6 +164,7 @@ Hope this will help you to start your leetcode journey
 | ------- |
 | [0035-search-insert-position](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0713-subarray-product-less-than-k) |

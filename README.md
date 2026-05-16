@@ -23,6 +23,7 @@ Hope this will help you to start your leetcode journey
 | [0189-rotate-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -43,6 +44,7 @@ Hope this will help you to start your leetcode journey
 | [0202-happy-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0409-longest-palindrome) |
@@ -141,6 +143,7 @@ Hope this will help you to start your leetcode journey
 | [0070-climbing-stairs](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
@@ -148,6 +151,7 @@ Hope this will help you to start your leetcode journey
 | [0075-sort-colors](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
@@ -165,6 +169,7 @@ Hope this will help you to start your leetcode journey
 | [0035-search-insert-position](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
@@ -201,4 +206,8 @@ Hope this will help you to start your leetcode journey
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

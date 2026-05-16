@@ -35,6 +35,7 @@ Hope this will help you to start your leetcode journey
 | [0713-subarray-product-less-than-k](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
 | [0890-lemonade-change](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0940-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/GadhiyaVrund/Leet-Code/tree/master/1207-unique-number-of-occurrences) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/GadhiyaVrund/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ Hope this will help you to start your leetcode journey
 | [0496-next-greater-element-i](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0525-contiguous-array) |
 | [0940-fruit-into-baskets](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0940-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/GadhiyaVrund/Leet-Code/tree/master/1207-unique-number-of-occurrences) |
 ## Union Find
 |  |
 | ------- |

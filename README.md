@@ -34,6 +34,7 @@ Hope this will help you to start your leetcode journey
 | [0503-next-greater-element-ii](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0940-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/GadhiyaVrund/Leet-Code/tree/master/1207-unique-number-of-occurrences) |
@@ -191,6 +192,7 @@ Hope this will help you to start your leetcode journey
 | ------- |
 | [0525-contiguous-array](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/GadhiyaVrund/Leet-Code/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
